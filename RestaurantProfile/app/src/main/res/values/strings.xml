@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RestaurantProfile</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu_view">menu_view</string>
+    <string name="name_resto">Restaurant 1</string>
+    <string name="street">JL xxxxxxxx</string>
+    <string name="nama_makanan">Makanan 1</string>
+    <string name="price">RP 100.000,-</string>
+    <string name="deskripsi">Mie Ayam dengan bakso</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_resto_prof">RestoProf</string>
+</resources>
